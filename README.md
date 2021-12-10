@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wcryder Will Ryder / Ryder Data Systems, Inc. ;
 - 👀 I’m interested in ... Mirosoft Access/SQL Server Database Applications
 - 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothng at the moment ...
 - 📫 How to reach me ... Email: rdatasys@gmail.com; 
 
 <!---
